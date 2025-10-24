@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+bin/
+obj/
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Configs
+.env
+.vscode/

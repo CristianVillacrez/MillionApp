@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\bin\Debug\net8.0\Million.Domain.deps.json
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\bin\Debug\net8.0\Million.Domain.dll
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\bin\Debug\net8.0\Million.Domain.pdb
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\obj\Debug\net8.0\Million.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\obj\Debug\net8.0\Million.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\obj\Debug\net8.0\Million.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\obj\Debug\net8.0\Million.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\obj\Debug\net8.0\Million.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\obj\Debug\net8.0\Million.Domain.dll
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\obj\Debug\net8.0\refint\Million.Domain.dll
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\obj\Debug\net8.0\Million.Domain.pdb
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Domain\obj\Debug\net8.0\ref\Million.Domain.dll

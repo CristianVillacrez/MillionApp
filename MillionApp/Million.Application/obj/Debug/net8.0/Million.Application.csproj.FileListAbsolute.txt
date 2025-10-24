@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\bin\Debug\net8.0\Million.Application.deps.json
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\bin\Debug\net8.0\Million.Application.dll
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\bin\Debug\net8.0\Million.Application.pdb
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\obj\Debug\net8.0\Million.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\obj\Debug\net8.0\Million.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\obj\Debug\net8.0\Million.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\obj\Debug\net8.0\Million.Application.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\obj\Debug\net8.0\Million.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\obj\Debug\net8.0\Million.Application.dll
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\obj\Debug\net8.0\refint\Million.Application.dll
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\obj\Debug\net8.0\Million.Application.pdb
+C:\Users\Usuario\Documents\Million\MillionApp\Million.Application\obj\Debug\net8.0\ref\Million.Application.dll

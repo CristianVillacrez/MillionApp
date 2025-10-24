@@ -1,0 +1,7 @@
+@Million.API_HostAddress = http://localhost:5277
+
+GET {{Million.API_HostAddress}}/
+/
+Accept: application/json
+
+###
